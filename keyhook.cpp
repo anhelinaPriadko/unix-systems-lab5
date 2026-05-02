@@ -5,7 +5,7 @@
 #include <unistd.h>
 
 int main() {
-    const char* dev = "/dev/input/event3"; 
+    const char* dev = "/dev/input/event2"; 
     int fd = open(dev, O_RDONLY);
 
     if (fd == -1) {
