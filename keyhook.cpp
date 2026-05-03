@@ -1,4 +1,3 @@
-// keyhook.cpp
 #include <iostream>
 #include <fcntl.h>
 #include <linux/input.h>

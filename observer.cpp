@@ -1,4 +1,3 @@
-// observer_pro.cpp
 #include <iostream>
 #include <sys/uio.h>
 #include <unistd.h>
